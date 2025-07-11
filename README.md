@@ -207,7 +207,7 @@ CropMate can be valuable for:
 
 ## 👨‍💻 Contributors
 
-- Tanmaya Panigrahi - Developer
+- UTPAL DEHURY - Developer
 
 ## 📜 License
 
